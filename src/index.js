@@ -1,4 +1,3 @@
-/* eslint-disable no-unused-vars */
 import Validator from './js/validateUsername';
 
 const invalidTest1 = new Validator('123Regex123').validateUsername();
